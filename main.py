@@ -3,10 +3,10 @@ x = input("Enter Value of x:")
 y = input("Enter Value of y:")
 
 # Swapping
-temp - x
+temp = x
 x = y
- y = temp
+y = temp
 
- # Displaying resultsmafter swapping
- print("value of x after swapping", x)
- print("value of y after swapping", y)
+# Displaying resultsmafter swapping
+print("value of x after swapping", x)
+print("value of y after swapping", y)
